@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @JaytidaA
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Web Dev and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love Pizza🍕
 
 <!---
