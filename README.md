@@ -2,6 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Web Dev and C++
 - ⚡ Fun fact: I love Pizza🍕
+- 🐧 Did you know: I use Arch, btw. 🅰️
 
 <!---
 JaytidaA/JaytidaA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
