@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaytidaA
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Web Dev and C++
+- 🌱 I’m love to learn new things and am currently in the Linux, C, Embedded space.
 - ⚡ Fun fact: I love Pizza🍕
 - 🐧 Did you know: I use Arch, btw. 🅰️
 
